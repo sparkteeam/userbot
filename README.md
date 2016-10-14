@@ -20,3 +20,7 @@ sudo pip install urllib
 cd userbot
 python main.py
 </code>
+
+# البوت من تطوير tele : @m_1_h
+
+# قناة المطور tele : @helpsudo_tv
