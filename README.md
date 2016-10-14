@@ -17,9 +17,11 @@ sudo pip install urllib
 
 # طريقة التشغيل
 <code>
-cd userbot
 python main.py
 </code>
+<code>
+cd userbot
+<code>
 
 # البوت من تطوير tele : @m_1_h
 
