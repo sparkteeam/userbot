@@ -66,7 +66,7 @@ def run ():
                             ]
                             ]
                             })
-                            bot.send_photo(chat_id,open('photo_2016-10-14_17-31-55.jpg'),caption='ch @helpsudo_tv',reply_markup=markup)
+                            bot.send_photo(chat_id,open('photo_2016-10-14_17-31-55.jpg'),caption='🔺- ch :  @helpsudo_tv',reply_markup=markup)
                         if(command == '/info' or command == '/start info'):
                             bot.getUpdates(last_update+1)
                             bot.send_action(chat_id,'typing')
